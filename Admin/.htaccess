@@ -1,0 +1,4 @@
+# this is file is for to show error of 404 
+
+
+ErrorDocument 404 http://localhost/System/admin/404.php
